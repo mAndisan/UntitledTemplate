@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mandisan.untitledtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mandisan.untitledtemplate.MyBundle
 
 class MyApplicationService {
 
